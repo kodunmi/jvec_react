@@ -13,12 +13,6 @@ const ModalLayout = () => {
   ) : (
     <Outlet />
   );
-
-  //   return (
-  //     <Modal>
-  //       <Outlet />
-  //     </Modal>
-  //   );
 };
 
 export default ModalLayout;
